@@ -1,4 +1,4 @@
-#include "bouton.h"
+#include "Bouton.h"
 
 BoutonAccueil nouveau_bouton(Point centre, Couleur c, char *texte, int taille) {
     BoutonAccueil resultat;

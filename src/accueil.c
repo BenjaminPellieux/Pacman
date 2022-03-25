@@ -8,7 +8,7 @@
 #include "../lib/libgraphique.h"
 #include "main.h"
 #include "accueil.h"
-#include "bouton.h"
+#include "Bouton.h"
 #include "entrer.h"
 #include "affichage.h"
 #include "pacman.h"
